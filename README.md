@@ -43,7 +43,7 @@ This repository contains a script that demonstrates how Git's timestamp system w
 1. Create a new repository on GitHub (e.g., `backfill`)
 2. Clone this repository to your local machine:
    ```bash
-   git clone https://github.com/yourusername/backfill.git
+   git clone https://github.com/ismat-samadov/backfill.git
    cd backfill
    ```
 
@@ -227,4 +227,4 @@ Your journey as a developer is about the skills you build, not how your profile 
 
 ## License
 
-MIT License - Feel free to use, modify, and distribute as needed.
+This project is licensed under the MIT License. You are free to use, modify, and distribute the code as long as the original license is included. See the `LICENSE` file for more details.
