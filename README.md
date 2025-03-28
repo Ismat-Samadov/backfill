@@ -18,6 +18,8 @@ This repository contains a script to automate backfilling tasks.
 3. Run the script:
     ```bash
     ./backfill.sh .
+    ```bash
+    git push -u origin main
     ```
 
 ## Description
